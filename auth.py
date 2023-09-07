@@ -1,2 +1,2 @@
-def registration():
+def registration(email,fname,lname):
     pass
